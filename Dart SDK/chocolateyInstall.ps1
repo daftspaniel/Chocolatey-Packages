@@ -11,5 +11,7 @@ Install-ChocolateyPath "$installDir\bin"
 Install-ChocolateyPath "${env:USERPROFILE}\AppData\Roaming\Pub\Cache\bin"
 $env:Path = "$($env:Path);$installDir\bin;${env:USERPROFILE}\AppData\Roaming\Pub\Cache\bin"
 
-Remove-Item $installDir -Recurse -Force
+if (test-path $installDir) {
+	Remove-Item $installDir -Recurse -Force
+}
 Install-ChocolateyZipPackage $packageName $url $unzipDir $url64
