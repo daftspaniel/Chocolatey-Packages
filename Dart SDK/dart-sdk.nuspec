@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
+    <title>Dart SDK</title>
     <id>dart-sdk</id>
     <description>
 The Dart SDK has the libraries and command-line tools that you need to develop Dart applications.
@@ -10,5 +11,6 @@ Dart is a cohesive, scalable platform for building apps that run on the web (whe
     <version>1.10.0</version>
     <authors>Google</authors>
     <iconUrl>https://cdn.rawgit.com/dart-lang/www.dartlang.org/master/src/site/logos/dart-logo.png</iconUrl>
+    <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
   </metadata>
 </package>
