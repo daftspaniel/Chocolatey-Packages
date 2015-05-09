@@ -1,6 +1,5 @@
 $package = 'DartEditor'
 
-try {
   $location = Join-Path $Env:SystemDrive $Env:Chocolatey_Bin_Root
   if (!(Test-Path $location))
   {
@@ -21,7 +20,3 @@ try {
   }
   Pop-Location
 
-} catch {
-  Write-ChocolateyFailure $package "$($_.Exception.Message)"
-  throw
-}
