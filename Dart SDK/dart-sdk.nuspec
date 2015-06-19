@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <title>Dart SDK</title>
@@ -12,5 +12,6 @@ Dart is a cohesive, scalable platform for building apps that run on the web (whe
     <authors>Google</authors>
     <iconUrl>https://cdn.rawgit.com/dart-lang/www.dartlang.org/master/src/site/logos/dart-logo.png</iconUrl>
     <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
+	<projectUrl>http://www.dartlang.org/</projectUrl>
   </metadata>
 </package>

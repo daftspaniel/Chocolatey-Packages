@@ -1,9 +1,9 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <metadata>
     <id>DartEditor</id>
     <title>Dart Editor</title>
-    <version>1.10.0</version>
+    <version>1.10.1</version>
     <authors>Google</authors>
     <summary>Dart Editor is an open-source tool for editing, debugging, and running Dart applications.</summary>
     <description>Dart Editor is an open-source tool for editing, debugging, and running Dart applications.
