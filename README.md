@@ -1,10 +1,14 @@
 # Chocolatey-Packages
-12 June 2015
+*19 June 2015*
+
++Updates to file encodings and missing tags reported during moderation.
+
+*12 June 2015*
 
 +Dart SDK updated to 1.10.1.
 
 
-9 May 2015
+*9 May 2015*
 
 +Dartium and Dart-SDK updated to 1.10 thanks to pull request from @nfrancios.
 
@@ -17,7 +21,7 @@
 
 Davy Mitchell
 
-27 April 2015
+*27 April 2015*
 
 This is the repo for the Dart Chocolatey packages for Windows.
 
