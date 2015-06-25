@@ -1,8 +1,8 @@
 $packageName = 'dart-sdk'
 
 # https://www.dartlang.org/tools/download_archive/
-$url = 'https://storage.googleapis.com/dart-archive/channels/stable/release/45692/sdk/dartsdk-windows-ia32-release.zip'
-$url64 = 'https://storage.googleapis.com/dart-archive/channels/stable/release/45692/sdk/dartsdk-windows-x64-release.zip'
+$url = 'https://storage.googleapis.com/dart-archive/channels/stable/release/1.11.0/sdk/dartsdk-windows-ia32-release.zip'
+$url64 = 'https://storage.googleapis.com/dart-archive/channels/stable/release/1.11.0/sdk/dartsdk-windows-x64-release.zip'
 
 $unzipDir = Get-BinRoot # NOTE: We're not adding dart-sdk to the end, as that's already in the zip file.
 $installDir = Join-Path $unzipDir "dart-sdk"

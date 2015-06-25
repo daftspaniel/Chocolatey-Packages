@@ -1,7 +1,6 @@
 $packageName = 'dartium'
 
-# https://www.dartlang.org/tools/download_archive/
-$url = 'https://storage.googleapis.com/dart-archive/channels/stable/release/45396/dartium/dartium-windows-ia32-release.zip'
+$url = 'https://storage.googleapis.com/dart-archive/channels/stable/release/1.11.0/dartium/dartium-windows-ia32-release.zip'
 
 $binRoot = Get-BinRoot
 $installDir = Join-Path $binRoot "dartium"
