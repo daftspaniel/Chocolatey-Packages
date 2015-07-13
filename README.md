@@ -1,4 +1,8 @@
 # Chocolatey-Packages
+
+*13 July 2015*
++Updated Dartium and Dart SDK to 1.11.1
+
 *19 June 2015*
 
 +Updates to file encodings and missing tags reported during moderation.
