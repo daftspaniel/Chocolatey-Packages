@@ -1,17 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <title>Dartium</title>
-    <id>dartium</id>
+    <title>Dart SDK Dev Channel</title>
+    <id>dart-sdk-dev</id>
     <description>
-Dartium is a special build of Chromium that includes the Dart VM. Using Dartium means you don't have to compile your code to JavaScript until you're ready to test on other browsers.
+	
+The Dart SDK has the libraries and command-line tools that you need to develop Dart applications.
 
 Dart is a cohesive, scalable platform for building apps that run on the web (where you can use Polymer) or on servers (such as with Google Cloud Platform). Use the Dart language, libraries, and tools to write anything from simple scripts to full-featured apps.
+
+Note : This is the Dev channel build of Dart. You may wish to use the Stable channel 'dart-sdk' package.
+
     </description>
-    <version>1.12.0</version>
+    <version>1.11.1</version>
     <authors>Google</authors>
-	<projectUrl>http://www.dartlang.org/tools/</projectUrl>
     <iconUrl>https://cdn.rawgit.com/dart-lang/www.dartlang.org/master/src/site/logos/dart-logo.png</iconUrl>
     <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
+	<projectUrl>http://www.dartlang.org/</projectUrl>
   </metadata>
 </package>
