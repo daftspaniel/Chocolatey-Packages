@@ -4,15 +4,14 @@
     <title>Dart SDK Dev Channel</title>
     <id>dart-sdk-dev</id>
     <description>
+	Note : This is the Dev channel build of Dart. You may wish to use the Stable channel 'dart-sdk' package.
 	
 The Dart SDK has the libraries and command-line tools that you need to develop Dart applications.
 
 Dart is a cohesive, scalable platform for building apps that run on the web (where you can use Polymer) or on servers (such as with Google Cloud Platform). Use the Dart language, libraries, and tools to write anything from simple scripts to full-featured apps.
 
-Note : This is the Dev channel build of Dart. You may wish to use the Stable channel 'dart-sdk' package.
-
     </description>
-    <version>1.11.1</version>
+    <version>1.13.0</version>
     <authors>Google</authors>
     <iconUrl>https://cdn.rawgit.com/dart-lang/www.dartlang.org/master/src/site/logos/dart-logo.png</iconUrl>
     <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
