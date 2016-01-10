@@ -1,5 +1,13 @@
 # Chocolatey-Packages
 
+*10 January 2016*
+
++Updated Dart SDK to 1.13.1
++Updated Dart SDK to 1.13.2
++Updated Dartium to 1.13.1
++Updated Dartium to 1.13.2
+
+
 *09 September 2015*
 
 +Updated Dartium and Dart SDK to 1.12.1

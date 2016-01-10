@@ -13,4 +13,4 @@ $env:Path = "$($env:Path);$installDir\bin;${env:USERPROFILE}\AppData\Roaming\Pub
 if (test-path $installDir) {
 	Remove-Item $installDir -Recurse -Force
 }
-Install-ChocolateyZipPackage $packageName $url $unzipDir $url64
+Install-ChocolateyZipPackage $packageName $url $installDir $url64
