@@ -1,7 +1,11 @@
 # Chocolatey-Packages
 
+*28 July 2016*
+
++Updated Dart SDK to 1.18.0
+
 *11 June 2016*
-s
+
 +Updated Dart SDK to 1.17.1
 
 *08 June 2016*
