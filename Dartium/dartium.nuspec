@@ -9,7 +9,7 @@ Dartium is a special build of Chromium that includes the Dart VM. Using Dartium 
 Dart is a cohesive, scalable platform for building apps that run on the web (where you can use Angular2 or Polymer) or on servers (such as with Google Cloud Platform). Use the Dart language, libraries, and tools to write anything from simple scripts to full-featured apps on the web or mobile.
     </description>
 	<summary>Dartium is a special build of Chromium that includes the Dart VM.</summary>
-    <version>1.18.1</version>
+    <version>1.19.0</version>
     <authors>Google</authors>
 	<projectUrl>http://www.dartlang.org/tools/</projectUrl>
     <iconUrl>https://cdn.rawgit.com/dart-lang/www.dartlang.org/master/src/site/logos/dart-logo.png</iconUrl>
