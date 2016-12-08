@@ -9,7 +9,7 @@ The Dart SDK has the libraries and command-line tools that you need to develop D
 Dart is a cohesive, scalable platform for building apps that run on the web (where you can use Angular2 or Polymer) or on servers (such as with Google Cloud Platform). Use the Dart language, libraries, and tools to write anything from simple scripts to full-featured apps on the web or mobile with the Flutter platform.
     </description>
 	<summary>The Dart SDK has the libraries and command-line tools that you need to develop Dart applications.</summary>
-    <version>1.19.0</version>
+    <version>1.21.0</version>
     <authors>Google</authors>
     <iconUrl>https://cdn.rawgit.com/dart-lang/www.dartlang.org/master/src/site/logos/dart-logo.png</iconUrl>
     <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
