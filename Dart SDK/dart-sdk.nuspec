@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <title>Dart SDK</title>
     <id>dart-sdk</id>
@@ -11,10 +11,11 @@ Dart is a cohesive, scalable platform for building apps that run on the web (whe
 	<summary>The Dart SDK has the libraries and command-line tools that you need to develop Dart applications.</summary>
     <version>1.21.0</version>
     <authors>Google</authors>
+	<owners>daftspaniel</owners>
     <iconUrl>https://cdn.rawgit.com/dart-lang/www.dartlang.org/master/src/site/logos/dart-logo.png</iconUrl>
     <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
 	<projectUrl>http://www.dartlang.org/</projectUrl>
 	<packageSourceUrl>https://github.com/daftspaniel/Chocolatey-Packages</packageSourceUrl>
-	<tags>Dart SDK Development VirtualMachine JSTranspiler Compiler</tags>
+	<tags>Dart DartLang SDK Development VirtualMachine JSTranspiler Compiler</tags>
   </metadata>
 </package>
