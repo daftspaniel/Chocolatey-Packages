@@ -1,6 +1,6 @@
 $packageName = 'dartium'
 
-$url = 'https://storage.googleapis.com/dart-archive/channels/stable/release/1.21.1/dartium/dartium-windows-ia32-release.zip'
+$url = 'https://storage.googleapis.com/dart-archive/channels/stable/release/1.22.0/dartium/dartium-windows-ia32-release.zip'
 
 $binRoot = Get-BinRoot
 $installDir = Join-Path $binRoot "dartium"
@@ -16,7 +16,7 @@ $packageArgs = @{
   packageName    = $packageName
   url            = $url
   unzipLocation  = $unzipLocation
-  checksum       = 'a43d6e56f01caf45d0d5021fd54d4dcc4c4194ae867672ea0f71aa5b1c1258ab'
+  checksum       = '32ecb8815b7f1cad6cdd9e47e3fdc1a74b53c67a84536b280525b7e9addb82b4'
   checksumType   = 'sha256'
 }
 
