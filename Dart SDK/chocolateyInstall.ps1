@@ -19,9 +19,9 @@ $packageArgs = @{
   url            = $url
   url64bit       = $url64
   unzipLocation  = $unzipLocation
-  checksum       = 'e154ab0ba06a0b47d6d080e4c7de74a78076daed2be908ff49bac1691ceff09e'
+  checksum       = 'e8bbe9ad99891cc143793e04e1d1a754994d1ed7021dc86d74a1d74b9fc5a229'
   checksumType   = 'sha256'
-  checksum64     = '97f799cd84899d090d8619348c8daf96dc1c3b53f8bab059ba1bf1d4c82074c6'
+  checksum64     = 'f55551a0e9d4440b1fc646556de66b91dd4bdcb537c6372ca82dfbe57c46e9c0'
   checksumType64 = 'sha256'
 }
 
