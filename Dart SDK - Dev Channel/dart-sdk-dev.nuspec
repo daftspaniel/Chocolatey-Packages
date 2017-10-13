@@ -1,20 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <title>Dart SDK Dev Channel</title>
+    <title>Dart SDK</title>
     <id>dart-sdk-dev</id>
     <description>
-	Note : This is the Dev channel build of Dart. You may wish to use the Stable channel 'dart-sdk' package.
-
 The Dart SDK has the libraries and command-line tools that you need to develop Dart applications.
 
-Dart is a cohesive, scalable platform for building apps that run on the web (where you can use Polymer) or on servers (such as with Google Cloud Platform). Use the Dart language, libraries, and tools to write anything from simple scripts to full-featured apps.
-
+Dart is a cohesive, scalable platform for building apps that run on the web (where you can use AngularDart) or on servers (such as with Google Cloud Platform). Use the Dart language, libraries, and tools to write anything from simple scripts to full-featured apps on the web or mobile with the Flutter platform.
     </description>
-    <version>1.14.06</version>
+	<summary>The Dart SDK has the libraries and command-line tools that you need to develop Dart applications.</summary>
+    <version>2.0.0.3</version>
     <authors>Google</authors>
-    <iconUrl>https://cdn.rawgit.com/dart-lang/www.dartlang.org/master/src/site/logos/dart-logo.png</iconUrl>
+	<owners>daftspaniel</owners>
+    <iconUrl>https://www.dartlang.org/assets/logo-61576b6c2423c80422c986036ead4a7fc64c70edd7639c6171eba19e992c87d9.svg</iconUrl>
     <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
 	<projectUrl>http://www.dartlang.org/</projectUrl>
+	<packageSourceUrl>https://github.com/daftspaniel/Chocolatey-Packages</packageSourceUrl>
+	<tags>Dart DartLang SDK Development VirtualMachine JSTranspiler Compiler</tags>
   </metadata>
 </package>
